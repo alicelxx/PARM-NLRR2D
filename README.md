@@ -1,4 +1,4 @@
-#**Proximal Alternating Reweighted Minimization for Multiplicative Noise Removal, Version 2.0**
+**Proximal Alternating Reweighted Minimization for Multiplicative Noise Removal, Version 2.0**
 
 Please refer to the following our paper:
 
