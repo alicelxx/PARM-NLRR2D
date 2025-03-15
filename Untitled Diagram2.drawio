@@ -4,56 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QywLkrfquz30VgyK-Rfi-4" value="高光谱图像重建与复原" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=41;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="QywLkrfquz30VgyK-Rfi-4" value="高光谱图像重建与复原" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=28;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="947" y="405" width="252" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-5" value="即插即用降噪器设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;fontFamily=Comic Sans MS;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="630" y="524" width="204" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-5" target="QywLkrfquz30VgyK-Rfi-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-6" value="重建与复原一体化模型构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="960" y="524" width="226" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-5" value="即插即用降噪器设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontFamily=Comic Sans MS;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="524" width="204" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-7" value="自适应优化算法开发" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="524" width="204" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-6" target="QywLkrfquz30VgyK-Rfi-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="580.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-8" value="近端算子理论" style="whiteSpace=wrap;strokeWidth=2;glass=0;rounded=1;shadow=0;arcSize=50;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="530" y="630" width="188" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-6" value="重建与复原一体化模型构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="947" y="524" width="252" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-9" value="空间-光谱特性建模" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="739" y="630" width="194" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-7" target="QywLkrfquz30VgyK-Rfi-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-10" value="收敛性证明(关键问题1)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="740" width="224" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-7" value="自适应优化算法开发" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="524" width="204" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-11" value="专用降噪器实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="740" width="172" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-12" value="空间退化机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="710" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-13" value="光谱退化机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="962" y="723" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-14" value="变量分裂技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="630" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-15" value="多正则化融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="958" y="630" width="169" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-16" value="预条件矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="630" width="194" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-17" value="谱半径分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="700" width="140" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-18" value="自适应步长策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="630" width="172" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-19" value="片上系统适配(关键问题3)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="700" width="240" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-20" value="可证明收敛的即插即用框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="960" y="870" width="252" height="54" as="geometry" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-10" value="收敛性可证明" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#FFFFFF;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="597" y="690" width="132" height="46" as="geometry" />
         </mxCell>
         <mxCell id="QywLkrfquz30VgyK-Rfi-21" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="QywLkrfquz30VgyK-Rfi-5">
           <mxGeometry relative="1" as="geometry">
@@ -71,19 +46,155 @@
         <mxCell id="QywLkrfquz30VgyK-Rfi-23" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="QywLkrfquz30VgyK-Rfi-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1492" y="480" />
+              <mxPoint x="1407" y="480" />
             </Array>
             <mxPoint x="1084" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-12" target="QywLkrfquz30VgyK-Rfi-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-43" target="QywLkrfquz30VgyK-Rfi-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-43" value="空间光谱特性" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="729" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;可证明收敛的即插即用框架&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="919" y="791" width="308" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-49" value="研究内容&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#485D80;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="639" y="488" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-51" value="研究内容&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#485D80;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="983" y="488" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-52" value="研究内容&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#485D80;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1317" y="488" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-55" target="QywLkrfquz30VgyK-Rfi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-55" value="近端算子理论" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="589" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-57" target="QywLkrfquz30VgyK-Rfi-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-57" value="多先验正则化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="933" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-58" target="QywLkrfquz30VgyK-Rfi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-58" value="变量分离技术" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-59" target="QywLkrfquz30VgyK-Rfi-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-59" value="自适应步长" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-60" target="QywLkrfquz30VgyK-Rfi-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-60" value="预条件矩阵" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=20;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="610" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-61" value="高光谱专用" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#ffffff;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="738" y="690" width="132" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.453;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QywLkrfquz30VgyK-Rfi-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="590" as="sourcePoint" />
+            <mxPoint x="1060" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="797" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QywLkrfquz30VgyK-Rfi-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-19" target="QywLkrfquz30VgyK-Rfi-20">
+        <mxCell id="QywLkrfquz30VgyK-Rfi-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.453;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073" y="590" as="sourcePoint" />
+            <mxPoint x="1140" y="609" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.453;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1407" y="590" as="sourcePoint" />
+            <mxPoint x="1474" y="609" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1474" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1008" y="737.0000000000002" as="sourcePoint" />
+            <mxPoint x="1073" y="792" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1008" y="761" />
+              <mxPoint x="1073" y="761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-69" value="多退化机制" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#ffffff;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="942" y="690" width="132" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1149" y="737.0000000000002" as="sourcePoint" />
+            <mxPoint x="1073" y="792" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1149" y="761" />
+              <mxPoint x="1073" y="761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-70" value="模型可解释" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#ffffff;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="690" width="132" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-86" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="761" as="targetPoint" />
+            <mxPoint x="1345.0000000000005" y="700.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1345" y="761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-71" value="病态性改善" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#ffffff;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="690" width="132" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-72" value="计算效率提高" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fillColor=light-dark(#73c91d, #4a890c);strokeColor=#82B366;fontColor=#ffffff;fontSize=16;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="690" width="132" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1317" y="761" as="targetPoint" />
+            <mxPoint x="1512.0000000000005" y="700.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1486" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-89" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="804.0000000000002" y="737.0000000000002" as="targetPoint" />
+            <mxPoint x="1010" y="761" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="804" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-90" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663" y="737.0000000000002" as="targetPoint" />
+            <mxPoint x="810" y="761" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="664" y="771" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
