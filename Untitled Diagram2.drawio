@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="oGyAoh9nWwNHiKxHRYFH">
-    <mxGraphModel>
+    <mxGraphModel dx="1093" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QywLkrfquz30VgyK-Rfi-4" value="高光谱图像重建与复原" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=41;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="947" y="405" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-5" value="即插即用降噪器设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;fontFamily=Comic Sans MS;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="524" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-6" value="重建与复原一体化模型构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="524" width="226" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-7" value="自适应优化算法开发" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="524" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-8" value="近端算子理论" style="whiteSpace=wrap;strokeWidth=2;glass=0;rounded=1;shadow=0;arcSize=50;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="530" y="630" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-9" value="空间-光谱特性建模" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="739" y="630" width="194" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-10" value="收敛性证明(关键问题1)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="740" width="224" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-11" value="专用降噪器实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="740" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-12" value="空间退化机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="710" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-13" value="光谱退化机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="962" y="723" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-14" value="变量分裂技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="630" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-15" value="多正则化融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="958" y="630" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-16" value="预条件矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="630" width="194" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-17" value="谱半径分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="700" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-18" value="自适应步长策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="630" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-19" value="片上系统适配(关键问题3)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="700" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-20" value="可证明收敛的即插即用框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="870" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-21" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="QywLkrfquz30VgyK-Rfi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="480" />
+            </Array>
+            <mxPoint x="1084" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-4" target="QywLkrfquz30VgyK-Rfi-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-23" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="QywLkrfquz30VgyK-Rfi-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1492" y="480" />
+            </Array>
+            <mxPoint x="1084" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-12" target="QywLkrfquz30VgyK-Rfi-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QywLkrfquz30VgyK-Rfi-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QywLkrfquz30VgyK-Rfi-19" target="QywLkrfquz30VgyK-Rfi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
